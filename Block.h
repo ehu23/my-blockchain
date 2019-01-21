@@ -1,5 +1,7 @@
 #include <cstdint>
 #include <iostream>
+#include <sstream>
+
 using namespace std;
 
 class Block {
